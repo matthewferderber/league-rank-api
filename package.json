@@ -11,14 +11,14 @@
     "db-setup": "node scripts/db-setup.js"
   },
   "dependencies": {
-    "@koa/cors": "2",
-    "koa": "^2.4.1",
-    "koa-bodyparser": "^4.2.0",
-    "koa-jwt": "^3.3.0",
+    "@koa/cors": "^2.2.2",
+    "koa": "^2.6.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-jwt": "^3.5.1",
     "koa-route": "^3.2.0",
-    "koa-router": "^7.3.0",
-    "leaguejs": "^1.6.1",
-    "pg": "6",
+    "koa-router": "^7.4.0",
+    "leaguejs": "^1.10.1",
+    "pg": "^6.0.5",
     "pg-hstore": "^2.3.2",
     "sequelize": "^4.28.5"
   }
